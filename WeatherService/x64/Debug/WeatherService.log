@@ -1,2 +1,5 @@
 ﻿  pugixml.cpp
+  WeatherService.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Kirya\source\repos\WeatherService\x64\Debug\WeatherService.exe при последней инкрементной компоновке; выполняется полная компоновка
   WeatherService.vcxproj -> C:\Users\Kirya\source\repos\WeatherService\x64\Debug\WeatherService.exe
