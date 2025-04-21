@@ -1,6 +1,6 @@
 #pragma once
 #include "Weather.h"
-class Service: public Weather{
+class Service{
 private:
 	
 public:
